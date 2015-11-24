@@ -51,7 +51,7 @@ public class Solution {
             if (column >= matrixSize) {
                 break;
             }
-        } while(1==1);
+        } while(true);
         
         return length;
     }
